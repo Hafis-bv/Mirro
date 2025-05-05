@@ -54,7 +54,7 @@
     display: block;
   }
 }
-.hero {
+/* .hero {
   display: flex;
   align-items: center;
   background-color: #f4f3f0;
@@ -86,4 +86,4 @@
   height: 44px;
   border-radius: 6px;
   margin-top: 19px;
-}
+} */
