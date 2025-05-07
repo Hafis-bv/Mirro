@@ -21,6 +21,7 @@
   gap: 16px;
   margin-top: 40px;
   flex-wrap: wrap;
+  margin-bottom: 30px;
 }
 .preset-store-card img {
   border-radius: 10px 10px 0 0;
@@ -50,4 +51,14 @@
   .preset-store-list {
     justify-content: center;
   }
+}
+.preset-store-btn {
+  display: block;
+  border: none;
+  width: max-content;
+  color: var(--primary-color);
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 23.8px;
+  margin: 0 auto;
 }
